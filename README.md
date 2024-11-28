@@ -1,2 +1,3 @@
-# project
-Blind Helper
+# BLIND HELPER
+Description:
+This project is an Android app that provides voice navigation, object detection, OCR reader, time and date functionality, weather information, battery status and more. The app uses object detection to detect objects in real-time and provides voice-based feedback to the user. Additionally, it has OCR scanner functionality which can be used to scan text and read it aloud to the user. It also has time and date functionality which can be used to tell the user the current time and date. The app also provides weather information of a particular city with the help of gps and also helps to locate the current location of the user and also contains api for finding current battery status. BL-App is developed using android studio and limited to android operating system only. For the ﬁrst-time users handling, functionalities and working of application needs to be conveyed in an unambiguous manner. Along with this users should have some basic knowledge of using smartphones.
